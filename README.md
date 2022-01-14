@@ -9,6 +9,7 @@ the PIN if in case he forgot the PIN. Application will have a simple
 and clean User Interface thus any one can easily use application.
 
 SCREENSHOTS:
+<div >
 <img src="https://user-images.githubusercontent.com/89149882/149561782-9ce33de0-e1b9-4a6a-87bc-2116d2d039ab.png" width="144" height="304"/>
 <img src="https://user-images.githubusercontent.com/89149882/149561828-0ec7143e-2e4f-42a0-8f08-7dd92bb43f89.png" width="144" height="304"/>
 <img src="https://user-images.githubusercontent.com/89149882/149561844-3b0ef3b0-17e3-4b89-b65d-2b3f4f863999.png" width="144" height="304"/>
@@ -22,4 +23,4 @@ SCREENSHOTS:
 <img src="https://user-images.githubusercontent.com/89149882/149561914-142a3ab2-0cad-4cdc-9dcf-9349b4b97dd9.png" width="144" height="304"/>
 <img src="https://user-images.githubusercontent.com/89149882/149561920-07070f95-662d-42df-86c5-a482417d7771.png" width="144" height="304"/>
 <img src="https://user-images.githubusercontent.com/89149882/149561935-3eb6bfbc-a1e2-4d29-b78e-cb2be638a6b1.png" width="144" height="304"/>
-<img src="" width="144" height="304"/>
+</div>
